@@ -102,8 +102,4 @@ kubectl delete -f path/to/api-gateway/service.yaml
 kubectl delete -f path/to/auth-service/service.yaml
 kubectl delete -f path/to/database-service/service.yaml
 kubectl delete -f path/to/frontend/service.yaml
-```
 
----
-
-Make sure to replace `path/to/...` with the actual paths to your service directories. This will help users easily navigate to where they need to execute each command. You can also add any additional setup instructions or details specific to your project.
